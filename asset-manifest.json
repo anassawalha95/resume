@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75f92da6.chunk.css",
+    "main.js": "/static/js/main.0b9a0b40.chunk.js",
+    "main.js.map": "/static/js/main.0b9a0b40.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
+    "static/js/2.6b66dfd3.chunk.js": "/static/js/2.6b66dfd3.chunk.js",
+    "static/js/2.6b66dfd3.chunk.js.map": "/static/js/2.6b66dfd3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.078e535c44ae9ce634a6b088bc73e8a0.js": "/precache-manifest.078e535c44ae9ce634a6b088bc73e8a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.75f92da6.chunk.css.map": "/static/css/main.75f92da6.chunk.css.map",
+    "static/js/2.6b66dfd3.chunk.js.LICENSE.txt": "/static/js/2.6b66dfd3.chunk.js.LICENSE.txt",
+    "static/media/jsDoc.png": "/static/media/jsDoc.ad68dcd5.png",
+    "static/media/markededitro.png": "/static/media/markededitro.9aeae2dc.png",
+    "static/media/productPromo.png": "/static/media/productPromo.485b0e21.png",
+    "static/media/quoteM.png": "/static/media/quoteM.8c0242fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbf3189.js",
+    "static/js/2.6b66dfd3.chunk.js",
+    "static/css/main.75f92da6.chunk.css",
+    "static/js/main.0b9a0b40.chunk.js"
+  ]
+}
